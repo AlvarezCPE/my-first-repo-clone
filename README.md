@@ -1,2 +1,2 @@
-# my-first-repo-clone
-this is a tutorial
+# Alvarez-CPE201A
+this repository is edited using linux
